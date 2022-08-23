@@ -15,7 +15,7 @@ The final project of CSCI 5308 - Advanced Software Development Concepts of MACS 
   - Aditya Deepak Mahale
   - Anas Malvat
   - Harshit Lakhani
-  - Jayasree Kulothungan(jayasreekulothungan@gmail.com)
+  - [Jayasree Kulothungan](jayasreekulothungan@gmail.com)
   - Kalpit Machhi
 - Learning Objectives
   - Learnt to work in a client-developer setup
